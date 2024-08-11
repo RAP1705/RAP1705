@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RAP1705
-- 👀 I’m interested in SAP Hana Cloud, SAP BTP, SAP BW/4Hana.
+- 👀 I’m interested in SAP BTP AI, SAP Hana Cloud, SAP BTP, SAP Integration Suite, SAP BTP Mobile Applications, and SAP BW/4Hana.
 - 🌱 I’m currently learning SAP BTP
 - 💞️ I’m looking to collaborate on project development related to SAP.
 - 📫 
